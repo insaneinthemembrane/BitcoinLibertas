@@ -1,7 +1,11 @@
 # BitcoinLibertas
 
+------
+
 Bitcoin Libertas is an ERC20 Token, with a total supply of 21,000 LIBERTAS
 
+
+0.4.19+commit.c4cbbb05.Emscripten.clang
 
 
 ![Libertas](https://cdn.pbrd.co/images/H6itu5O.png)
